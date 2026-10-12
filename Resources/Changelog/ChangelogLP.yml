@@ -1,2 +1,23 @@
-Entries: []
+Entries:
+- author: Evgencheg
+  changes:
+  - message: Добавлены визуалы от космического ветра.
+    type: Add
+  id: 1
+  time: '2026-10-12T02:20:34.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/26
+- author: Evgencheg
+  changes:
+  - message: Добавлена подсветка шлюзов.
+    type: Add
+  id: 2
+  time: '2026-10-12T02:20:34.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/26
+- author: Evgencheg
+  changes:
+  - message: Изменены звуки шлюзов.
+    type: Tweak
+  id: 3
+  time: '2026-10-12T02:20:34.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/26
 Order: -3

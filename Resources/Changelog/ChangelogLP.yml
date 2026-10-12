@@ -27,4 +27,11 @@ Entries:
   id: 4
   time: '2026-10-12T02:20:37.000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/25
+- author: Evgencheg
+  changes:
+  - message: Добавлены подписи (разных типов) и формы для документов теперь заполняются через кнопку.
+    type: Add
+  id: 5
+  time: '2026-10-12T02:44:51.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/27
 Order: -3

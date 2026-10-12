@@ -20,4 +20,11 @@ Entries:
   id: 3
   time: '2026-10-12T02:20:34.000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/26
+- author: PuroSlavKing, Evgencheg
+  changes:
+  - message: Добавлено позирование и его работа с зажатием.
+    type: Add
+  id: 4
+  time: '2026-10-12T02:20:37.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/25
 Order: -3

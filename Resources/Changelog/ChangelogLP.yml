@@ -41,4 +41,11 @@ Entries:
   id: 6
   time: '2026-10-12T06:38:19.000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/30
+- author: Evgencheg
+  changes:
+  - message: Добавлены рычаги пожарных шлюзов для их разблокировки и блокировки!
+    type: Add
+  id: 7
+  time: '2026-10-12T07:03:50.000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Lost-Light/pull/31
 Order: -3
